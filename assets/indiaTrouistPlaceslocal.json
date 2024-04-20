@@ -1,0 +1,139 @@
+
+{
+    "tourist_places": [
+      {
+        "category": "Historical and Cultural Sites",
+        "categorythumb":"assets/indiaplaces/categoriythumb/Historical and Cultural Sites.jpeg",
+        "places": [
+          {
+            "name": "Taj Mahal",
+            "image":"assets/indiaplaces/tajmahal.jpg",
+            "location": "Agra, Uttar Pradesh",
+            "budget": "Entry fee - ₹50-130 ($0.7-$1.8)",
+            "accommodation_cost": "₹800-1500",
+            "famous": "Iconic white marble mausoleum, UNESCO World Heritage Site",
+            "details": "Built by Mughal Emperor Shah Jahan in memory of his wife, Mumtaz Mahal."
+          },
+          {
+            "name": "Jaipur (Pink City)",
+            "image":"assets/indiaplaces/jaipurcity.jpg",
+            "location": "Rajasthan",
+            "budget": "Entry fee for Amber Fort - ₹100-200 ($1.4-$2.8)",
+            "accommodation_cost": "₹800-1500",
+            "famous": "Magnificent forts, palaces, vibrant markets",
+            "details": "Explore attractions like Amber Fort, Hawa Mahal, and City Palace."
+          },
+          {
+            "name": "Khajuraho Group of Monuments",
+            "image":"assets/indiaplaces/Khajuraho Group of Monuments.jpg",
+            "location": "Madhya Pradesh",
+            "budget": "Entry fee - ₹30-40 ($0.4-$0.6)",
+            "accommodation_cost": "₹800-1500",
+            "famous": "Intricate stone carvings, UNESCO World Heritage Site",
+            "details": "Temples known for their exquisite sculptures depicting various aspects of life."
+          }
+        ]
+      },
+      {
+        "category": "Natural Wonders and Landscapes",
+        "categorythumb":"assets/indiaplaces/categoriythumb/Natural Wonders and Landscapes.jpeg",
+        "places": [
+          {
+            "name": "Kerala Backwaters",
+            "image":"assets/indiaplaces/Kerala Backwaters.jpg",
+            "location": "Kerala",
+            "budget": "Affordable houseboat rates starting from ₹3,000 ($42) per night",
+            "accommodation_cost": "₹2000-3000",
+            "famous": "Serene backwaters, lush greenery",
+            "details": "Explore the backwaters of Alleppey and Kumarakom on traditional houseboats."
+          },
+          {
+            "name": "Rishikesh",
+            "image":"assets/indiaplaces/Rishikesh.jpg",
+            "location": "Uttarakhand",
+            "budget": "Budget accommodations starting from ₹500-1500 ($7-$21) per night",
+            "accommodation_cost": "₹500-1500",
+            "famous": "Spiritual retreat, adventure sports",
+            "details": "Known as the Yoga Capital of the World and offers thrilling activities like river rafting."
+          },
+          {
+            "name": "Leh-Ladakh",
+            "image":"assets/indiaplaces/Leh-Ladakh.jpg",
+            "location": "Jammu and Kashmir",
+            "budget": "Budget accommodations starting from ₹800-2000 ($11-$28) per night",
+            "accommodation_cost": "₹800-2000",
+            "famous": "Breathtaking landscapes, high-altitude adventure",
+            "details": "Explore the stunning valleys, lakes, and monasteries in this remote region."
+          }
+        ]
+      },
+      {
+        "category": "Beaches and Coastal Destinations",
+        "categorythumb":"assets/indiaplaces/categoriythumb/Beaches and Coastal Destinations.jpeg",
+        "places": [
+          {
+            "name": "Goa",
+            "image":"assets/indiaplaces/goa.jpg",
+            "location": "West Coast of India",
+            "budget": "Budget accommodations starting from ₹800-2000 ($11-$28) per night",
+            "accommodation_cost": "₹800-2000",
+            "famous": "Pristine beaches, vibrant nightlife",
+            "details": "Enjoy sun-soaked beaches, water sports, and a laid-back coastal atmosphere."
+          },
+          {
+            "name": "Kovalam Beach",
+            "image":"assets/indiaplaces/Kovalam Beach.jpg",
+            "location": "Thiruvananthapuram, Kerala",
+            "budget": "Entry to the beach - Free",
+            "accommodation_cost": "₹1000-2500",
+            "famous": "Lighthouse, crescent-shaped beach",
+            "details": "Relax on the golden sands and witness mesmerizing sunsets."
+          },
+          {
+            "name": "Varkala Beach",
+            "image":"assets/indiaplaces/Varkala Beach.jpg",
+            "location": "Thiruvananthapuram, Kerala",
+            "budget": "Entry to the beach - Free",
+            "accommodation_cost": "₹1000-2500",
+            "famous": "Cliffs overlooking the Arabian Sea, mineral springs",
+            "details": "Enjoy a unique beach experience with cliffside views and Ayurvedic treatments."
+          }
+        ]
+      },
+      {
+        "category": "Wildlife Sanctuaries and National Parks",
+        "categorythumb":"assets/indiaplaces/categoriythumb/Wildlife Sanctuaries and National Parks.jpeg",
+        "places": [
+          {
+            "name": "Jim Corbett National Park",
+            "image":"assets/indiaplaces/Jim Corbett National Park.jpg",
+            "location": "Uttarakhand",
+            "budget": "Entry fee - ₹400-800 ($5.6-$11)",
+            "accommodation_cost": "₹1500-2000",
+            "famous": "Bengal tigers, diverse flora and fauna",
+            "details": "India's oldest national park, ideal for wildlife safaris and birdwatching."
+          },
+          {
+            "name": "Periyar National Park",
+            "image":"assets/indiaplaces/Periyar National Park.jpg",
+            "location": "Kerala",
+            "budget": "Entry fee - ₹33-200 ($0.5-$2.8)",
+            "accommodation_cost": "₹1500-3000",
+            "famous": "Elephants, boat safaris",
+            "details": "Explore the wildlife-rich forests and enjoy boating in the Periyar Lake."
+          },
+          {
+            "name": "Kaziranga National Park",
+            "image":"assets/indiaplaces/Kaziranga National Park.jpg",
+            "location": "Assam",
+            "budget": "Entry fee - ₹100-650 ($1.4-$9)",
+            "accommodation_cost": "₹1500-2000",
+            "famous": "One-horned rhinoceros, biodiversity",
+            "details": "Home to the largest population of one-horned rhinoceroses and various other wildlife species."
+          }
+        ]
+      }
+    ]
+  }
+  
+  

@@ -1,0 +1,68 @@
+{
+    "seven_wonders": [
+      {
+        "name": "Great Wall of China",
+        "location": "China",
+        "details": "One of the world's longest walls, built to protect against invasions.The Great Wall was constructed over many centuries, with the earliest sections dating back as far as the 7th century BC. It was initially built as a series of separate walls by various Chinese dynasties to protect against invasions from nomadic tribes.",
+        "budget": "$20-30",
+        "Timeings":"9Am-6Pm",
+        "working_days": "Monday to Sunday",
+        "asset_image": "assets/sevenwonders/Great Wall of China.jpg"
+      },
+      {
+        "name": "Petra",
+        "location": "Jordan",
+        "details": "An ancient city carved into rose-colored cliffs, famous for its architecture.Petra stands as a testament to the ingenuity and architectural achievements of the Nabateans. Its unique rock-cut structures and historical significance make it a captivating and awe-inspiring destination for travelers and history enthusiasts alike.",
+        "budget": "$70-80",
+        "Timeings":"9Am-7Pm",
+        "working_days": "Monday to Sunday",
+        "asset_image": "assets/sevenwonders/Petra.jpg"
+      },
+      {
+        "name": "Christ the Redeemer",
+        "location": "Brazil",
+        "details": "An iconic statue of Jesus Christ, offering panoramic views of Rio de Janeiro.Christ the Redeemer stands as an iconic monument that represents both the religious devotion and the natural beauty of Brazil. It is a symbol of peace, unity, and an enduring landmark that captures the imagination of people from all over the world.",
+        "budget": "$10-15",
+        "Timeings":"9Am-6Pm",
+        "working_days": "Monday to Sunday",
+        "asset_image": "assets/sevenwonders/Christ the Redeemer.jpg"
+      },
+      {
+        "name": "Machu Picchu",
+        "location": "Peru",
+        "details": "An ancient Incan city located high in the Andes Mountains, renowned for its stunning architecture.Machu Picchu stands as a testament to the ancient Inca civilization's architectural and cultural achievements. Its spectacular setting, intriguing history, and breathtaking beauty continue to captivate travelers, making it a must-visit destination for those seeking to explore the wonders of the past.",
+        "budget": "$40-50",
+        "Timeings":"9Am-7Pm",
+        "working_days": "Monday to Sunday",
+        "asset_image": "assets/sevenwonders/Machu Picchu.jpg"
+      },
+      {
+        "name": "Chichen Itza",
+        "location": "Mexico",
+        "details": "A Mayan city with impressive ruins, including the iconic El Castillo pyramid.Chichen Itza stands as a testament to the impressive achievements of the Mayan civilization and offers a captivating glimpse into their history, culture, and architectural prowess. Its iconic structures and intriguing astronomical connections continue to fascinate and inspire awe in those who visit.",
+        "budget": "$20-30",
+        "Timeings":"9Am-6Pm",
+        "working_days": "Monday to Sunday",
+        "asset_image": "assets/sevenwonders/Chichen Itza.jpg"
+      },
+      {
+        "name": "Colosseum",
+        "location": "Italy",
+        "details": "An ancient amphitheater famous for its gladiator contests and historical significance.The Colosseum remains an enduring symbol of ancient Rome and a testament to the city's cultural and architectural heritage. Its imposing presence and historical significance continue to captivate visitors from around the world, offering a glimpse into the grand spectacles and vibrant social life of ancient Rome.",
+        "budget": "$15-20",
+        "Timeings":"9Am-8Pm",
+        "working_days": "Monday to Sunday",
+        "asset_image": "assets/sevenwonders/Colosseum.jpg"
+      },
+      {
+        "name": "Taj Mahal",
+        "location": "India",
+        "details": "A majestic white marble mausoleum, considered a masterpiece of Mughal architecture.The Taj Mahal was built between 1631 and 1648 by the Mughal emperor Shah Jahan as a tomb for his beloved wife, Mumtaz Mahal, who passed away during childbirth. It was constructed using white marble and involved the efforts of thousands of artisans, craftsmen, and laborers.The Taj Mahal is a major tourist attraction in India.The Taj Mahal stands as a testament to the love and devotion of Shah Jahan towards his wife, Mumtaz Mahal, and continues to captivate visitors with its breathtaking beauty and historical significance. ",
+        "budget": "$15-20",
+        "Timeings":"9Am-7Pm",
+        "working_days": "Monday to Sunday",
+        "asset_image": "assets/sevenwonders/Taj Mahal.jpg"
+      }
+    ]
+  }
+  
